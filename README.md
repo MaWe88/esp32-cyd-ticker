@@ -3,6 +3,9 @@
 
   <p>
     This project turns an ESP32 2432S028R also called the Cheap Yellow Display or CYD into a live stock and crypto ticker for your desk. It shows real time prices on the built in touchscreen and is fully configurable through a simple web interface. No coding is required after flashing.
+
+![IMG_8574](https://github.com/user-attachments/assets/251cb75c-4c81-4383-a8a7-b3f941ee5540)
+
   </p>
 
   <h2>Features</h2>
@@ -47,7 +50,8 @@
     <li>Enter free API keys for CoinGecko and Finnhub</li>
     <li>Configure up to five cryptocurrencies and ten stock symbols</li>
     <li>Choose automatic or manual update intervals</li>
-    <li>Enable or disable the status LED</li>
+    <li>Enable o![IMG_8574](https://github.com/user-attachments/assets/be082b5b-7904-4b27-b211-752f1a286751)
+r disable the status LED</li>
   </ul>
 
   <h2>How to Find the Right Symbols</h2>
