@@ -50,8 +50,7 @@
     <li>Enter free API keys for CoinGecko and Finnhub</li>
     <li>Configure up to five cryptocurrencies and ten stock symbols</li>
     <li>Choose automatic or manual update intervals</li>
-    <li>Enable o![IMG_8574](https://github.com/user-attachments/assets/be082b5b-7904-4b27-b211-752f1a286751)
-r disable the status LED</li>
+    <li>Enable or disable the status LED</li>
   </ul>
 
   <h2>How to Find the Right Symbols</h2>
