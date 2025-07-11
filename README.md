@@ -51,6 +51,7 @@
     <li>Configure up to five cryptocurrencies and ten stock symbols</li>
     <li>Choose automatic or manual update intervals</li>
     <li>Enable or disable the status LED</li>
+    <li>If you need to change the settings, press 10sec on the touchscreen to reset the Ticker</li>
   </ul>
 
   <h2>How to Find the Right Symbols</h2>
